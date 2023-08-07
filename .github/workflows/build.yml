@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - main
+      - revert-1-nidhi
 
 
 jobs:
