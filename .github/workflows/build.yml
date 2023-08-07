@@ -2,6 +2,8 @@ name: Build
 on:
   push:
     branches:
+      - main
+      - nidhi
       - new_feature
   pull_request:
     types: [opened, synchronize, reopened]
